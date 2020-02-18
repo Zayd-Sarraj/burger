@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaydorade/burger.git"
+  },
+  "keywords": [
+    "buger"
+  ],
+  "author": "Zayd Sarraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaydorade/burger/issues"
+  },
+  "homepage": "https://github.com/Zaydorade/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}

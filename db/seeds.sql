@@ -1,0 +1,1 @@
+insert into burgers (burger_name, devoured) VALUES ("Classic", false), ("Smokehouse", false), ("Double", false), ("Ostrich", true)
